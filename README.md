@@ -1,3 +1,6 @@
+![banner](https://raw.githubusercontent.com/phuchon2002/phuchon2002/master/banner.gif "i should say nothing about testing in production")
+<sup>source: https://www.youtube.com/c/netflixanime , https://youtu.be/uJJ1dLeYidc?t=146</sup>
+
 ### Hi there 👋
 
 **phuchon2002/phuchon2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
